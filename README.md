@@ -1,6 +1,6 @@
-# AI Entity Evolution
+# EvoSim
 
-AI Entity Evolution is a dynamic 2D simulation where entities learn to avoid threats, collect food, and adapt their behavior using reinforcement learning. The entities evolve by learning from their past experiences to optimize their survival in a hostile environment.
+EvoSim is a dynamic 2D simulation where entities learn to avoid threats, collect food, and adapt their behavior using reinforcement learning. The entities evolve by learning from their past experiences to optimize their survival in a hostile environment.
 
 ## Features
 
